@@ -1,0 +1,9 @@
+* {
+  margin: 0px;
+}
+#parent {
+  margin: 10px auto;
+}
+#child {
+  background-color: antiquewhite;
+}
