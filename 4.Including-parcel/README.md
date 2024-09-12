@@ -16,4 +16,5 @@
 - Differential Bundeling to support older browsers.
 - Diagnostic
 - Error handling
-- It can give us a way to host our website on HTTPs(currently hosting on HTTP)/
+- It can give us a way to host our website on HTTPs(currently hosting on HTTP).
+- Tree Shaking = It remove unsused code for us.
