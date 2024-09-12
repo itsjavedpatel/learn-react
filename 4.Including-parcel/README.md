@@ -11,6 +11,7 @@
 - Minification = For Production build it will minify our files also.
 - Bundling = bundle our files.
 - Compressing
+
 - Consistent Hashing
 - Code splitting
 - Differential Bundeling to support older browsers.
