@@ -32,4 +32,4 @@
 # Rendering react Component
 
 - we render react component using syntax
-- root.render(<Component/>)
+- root.render( < Component/>)
